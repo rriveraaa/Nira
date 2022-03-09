@@ -1,0 +1,11 @@
+body{background: #D7E2AC;}
+h1{font-family: monospace; font-size: 50px; color: #5C7038;}
+p{font-family: monospace; font-size: 24px; color: #425322;}
+a{font-family: monospace; font-size: 24px; color: #2C3C0E; }
+a:hover{color: #CB8A06;}
+img{border: double; border-width:10px; border-color:#F1ECE2}
+img{display: block;
+	margin-left: auto;
+	margin-right: auto;}
+h1{text-align: center;}
+.center{text-align: center;
